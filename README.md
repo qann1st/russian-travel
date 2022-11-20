@@ -4,7 +4,8 @@
 
 "Путешествие по России" - здесь рассказывается о прекрасных местах России.
 
-![image](https://user-images.githubusercontent.com/107764041/202918732-5a81391c-8133-42ef-ad5b-e5581cba8706.png)
+![1280](https://user-images.githubusercontent.com/107764041/202918906-6897dd8f-b8e5-4089-9eaf-18fc99e01f5b.png)
+
 
 [Ссылка на GitHub Pages](https://qann1st.github.io/russian-travel/)
 
