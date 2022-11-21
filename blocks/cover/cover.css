@@ -1,4 +1,5 @@
 .cover {
   display: grid;
-  padding-bottom: 92px;
+  width: 100%;
+  max-width: 1184px;
 }

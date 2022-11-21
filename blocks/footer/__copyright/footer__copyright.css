@@ -4,4 +4,19 @@
   font-size: 14px;
   line-height: 16px;
   color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .footer__copyright {
+    margin-top: 2px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer__copyright {
+    line-height: 16px;
+    margin-top: 48px;
+  }
 }
