@@ -12,7 +12,7 @@
 ## Используемые технологии:
 
 * Nested БЭМ
+* Методология БЭМ
 * Git 
 * HTML/CSS
-* Flex
-* Grid
+* Flex/Grid
